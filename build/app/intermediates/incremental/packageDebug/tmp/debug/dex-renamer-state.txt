@@ -1,0 +1,4 @@
+#Sun Apr 11 17:35:34 CLT 2021
+base.0=/Users/fcaicea/Desktop/Flutter/app_api_george/APIGEORGE/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
